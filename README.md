@@ -1,16 +1,25 @@
-## Hi there 👋
+# CAIMEO
+### A student interested in math and computer science.
 
-<!--
-**mobypnkit/mobypnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$$
+\text{Life} = \int_\text{birth}^{\text{death}} \text{study} \ dt
+$$
 
-Here are some ideas to get you started:
+- 🌱 Learning Programming Language Theory and Type Theory
+- 🤔 Researching on Programming Languages Theory
+- 📝 Regularly write notes and blogs ([The Rabbit Hole](https://caimeo.world))
+- 🔭 Working on **QuickCheck**, **Proof Assistant** and **Morpheus Compiler**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interests
+
+- Abstract Algebra
+- Arch Linux and NixOS
+- Category theory
+- Classic Music
+- Computer Science
+- Minecraft
+- Programming Language Theory
+- Quantum physics and Quantum computing
+- String Theory
+- Type Theory
